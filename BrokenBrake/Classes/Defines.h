@@ -1,0 +1,17 @@
+// z-order
+// Background
+#define ZORDER_LAYER_BACKGROUND				0
+
+// Player
+#define ZORDER_SPRITE_PLAYERCAR				1
+
+// AI
+#define ZORDER_SPRITE_AICAR					2
+
+// Spirte
+#define ZORDER_SPRITE_BATCH_NODE_EXPLOSION	1001
+
+// Tag
+#define TAG_SPRITE_PLAYERCAR				2001
+#define TAG_NUCLEAR							2002
+#define TAG_SPRITE_BATCH_NODE_EXPLOSION		2003
